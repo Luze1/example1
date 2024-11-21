@@ -1,2 +1,2 @@
-# example
+# Example
 ## Topic 1
